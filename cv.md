@@ -21,8 +21,7 @@ HTML
 <footer class="footer">
 	<div class="container">
 		<div class="footer-wrapper">
-			<h2 class="section-title">Контакты</h2>
-			<section>
+						<section>
 				<aside>
 					//= ../site-logo/site-logo.html
 				</aside>
