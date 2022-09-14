@@ -34,7 +34,7 @@ HTML
 						Queensland, UK
             
             
-            Experience
+Experience
 I’ve finished a couple of projects where I was working with HMTL&CSS
 
 Education
